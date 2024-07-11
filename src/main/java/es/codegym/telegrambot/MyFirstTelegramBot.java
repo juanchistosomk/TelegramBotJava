@@ -101,10 +101,7 @@ public class MyFirstTelegramBot extends MultiSessionTelegramBot {
         }
 
 
-
-
-        
-
+    // Messages
         /*
         if( getMessageText().contains("hola") ){
             sendTextMessageAsync("Hola, ¿Cuál es tu nombre?🚀🦾😊");
