@@ -1,2 +1,2 @@
-# TelegramBotJava
+# TelegramBot Java
 Java: Telegram Bot
